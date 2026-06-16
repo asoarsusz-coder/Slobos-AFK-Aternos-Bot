@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "AsoarsusZ.aternos.me",
-    "port": 41086,
+    "ip": "ogheartstealsmp.mcsh.io",
+    "port": 25565,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Join Our Official Discord Server https://discord.gg/aqw3MQusp",
+        "Subscribe to AsoarsusZ & Not_Rohit_yt",
+        "Check The Server Rules"
       ]
     },
     "chat-log": true,
